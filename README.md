@@ -24,7 +24,7 @@
 
 ## 👋 About me
 
-Backend-heavy full stack developer with **4+ years** building web applications end to end — from the database schema and queued jobs to the screens people actually use. Most of my work lives in **Laravel**, **Magento 2** and **NestJS**, backed by **PostgreSQL** and **MySQL**.
+Backend-heavy full stack developer with **6+ years** building web applications end to end — from the database schema and queued jobs to the screens people actually use. Most of my work lives in **Laravel**, **Magento 2** and **NestJS**, backed by **PostgreSQL** and **MySQL**.
 
 What I care about is the part that comes after launch: clear module boundaries, migrations that are safe to run twice, permission models that hold up when a new role appears, and tests that catch a regression before a client does.
 
